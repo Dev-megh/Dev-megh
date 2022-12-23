@@ -12,7 +12,7 @@
 
 <h2>🔥 My Streak</h2>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dev-megh&theme=cobalt)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dev-megh&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <h2>💪 My strengths</h2>
 
