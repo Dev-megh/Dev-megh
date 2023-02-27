@@ -49,6 +49,8 @@
 
 <h2>🎓 My certificates</h2>
 
+<h3>• Scientific Computing with Python</h3>
+<img width="500" src="https://user-images.githubusercontent.com/103350469/221508749-31213b31-20d0-4cc0-ac79-fe9d51857bb6.png"/>
 <h3>• Responsive Web Design</h3>
 <img width="500" src="https://user-images.githubusercontent.com/103350469/209272437-98adcab3-e1bc-4289-b82e-9589aeeb9751.png"/>
 <br />
