@@ -1,7 +1,7 @@
 <h2>👋 Hi, I’m @Dev-megh</h2>
 
-• 🔭 I'm currently working on a Art commissions website<br/>
-• 👀 I’m interested in: Full stack web dev, Mobile app dev, Software dev, AI/ML projects<br/>
+• 🔭 I'm currently working on an Art commissions website<br/>
+• 👀 I’m interested in Full stack web dev, Mobile app dev, Software dev, and AI/ML projects<br/>
 • 🌱 I’m currently learning: React.js, Next.js, and Flask<br/>
 • 💞️ I’m looking to collaborate on: Web-dev projects<br/>
 • 🌐 I'm quadrilingual<br/>
