@@ -1,10 +1,10 @@
 <h2>👋 Hi, I’m @Dev-megh</h2>
 
-• 🔭 I'm currently working on a diving point calculation website<br/>
-• 👀 I’m interested in Full stack web dev, Mobile app dev, Software dev, and AI/ML projects<br/>
-• 🌱 I’m currently learning: React.js, Next.js, and Flask<br/>
-• 💞️ I’m looking to collaborate on: Web-dev projects<br/>
-• 🌐 I'm quadrilingual<br/>
+• 🔭 I'm currently working on an online course hosting website<br/>
+• 👀 I’m interested in Full stack web dev, Software dev, AI/ML projects, as well as Automation, Space, and Advance defense systems engineering<br/>
+• 🌱 I’m currently learning: Python, Flask, and Backend management<br/>
+• 💞️ I’m looking to collaborate on: Web-dev or ML projects<br/>
+• 🌐 I'm a quadrilingual<br/>
 • 📫 How to reach me: email: chevlimegh@gmail.com<br/>
 
 <h3>Seen</h3>
