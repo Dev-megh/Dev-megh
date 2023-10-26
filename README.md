@@ -1,15 +1,11 @@
 <h2>👋 Hi, I’m @Dev-megh</h2>
 
-• 🔭 I'm currently working on an online course hosting website<br/>
+• 🔭 I'm currently working on an online course hosting platform<br/>
 • 👀 I’m interested in Full stack web dev, Software dev, AI/ML projects, as well as Automation, Space, and Defense systems engineering<br/>
 • 🌱 I’m currently learning: Python, Flask, and Backend management<br/>
 • 💞️ I’m looking to collaborate on: Web-dev or ML projects<br/>
 • 🌐 I'm a quadrilingual<br/>
 • 📫 How to reach me: email: chevlimegh@gmail.com<br/>
-
-<h3>Seen</h3>
-
-<img src="https://komarev.com/ghpvc/?username=Dev-megh&style=flat-square&color=blue" alt=""/>
 
 <h2>🔥 My Streak</h2>
 
