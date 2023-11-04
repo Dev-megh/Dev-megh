@@ -62,15 +62,21 @@
 <h2>🎓 My certificates</h2>
 
 <h3>• Scientific Computing with Python</h3>
-<img width="500" src="https://user-images.githubusercontent.com/103350469/221508749-31213b31-20d0-4cc0-ac79-fe9d51857bb6.png"/>
+
+![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/701ad33b-ef7a-4c62-a892-ee517ca38a9a)
+<br />
 <h3>• Responsive Web Design</h3>
-<img width="500" src="https://user-images.githubusercontent.com/103350469/209272437-98adcab3-e1bc-4289-b82e-9589aeeb9751.png"/>
+
+![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/e09662c2-6f22-4a28-ba58-342591e12781)
 <br />
 <h3>• Javascript Algorithms and Data Structures</h3>
-<img width="500" src="https://user-images.githubusercontent.com/103350469/209272452-1dca7579-88f3-47f0-a5e3-74ff02a3d103.png"/>
+
+![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/44414cf0-434e-471c-b8cc-9216f7b60e0f)
 <br />
 <h3>• Front End Development Libraries</h3>
-<img width="500" src="https://user-images.githubusercontent.com/103350469/209272460-fcba61cf-bb04-4ef1-b5c7-328c60b46a94.png"/>
+
+![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/2566d201-9dfc-4f06-b5b1-cff2ab4fc8ec)
+
 
 <h2>💻 My other skills</h2>
 
