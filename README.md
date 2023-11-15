@@ -67,6 +67,18 @@
 
 </details>
 
+<details><summary><h3>Data Collection and Processing with Python (Coursera, UM)</h3></summary>
+
+![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/cbe03de0-22ed-4ce3-828c-a3f0e33ae168)
+
+</details>
+
+<details><summary><h3>Python Functions, Files, and Dictionaries (Coursera, UM)</h3></summary>
+
+![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/6c677df3-32da-4741-8708-3aaabfe94d48)
+
+</details>
+
 <details><summary><h3>Responsive Web Design (FCC)</h3></summary>
 
 ![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/e09662c2-6f22-4a28-ba58-342591e12781)
@@ -82,19 +94,6 @@
 <details><summary><h3>Front End Development Libraries (FCC)</h3></summary>
 
 ![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/2566d201-9dfc-4f06-b5b1-cff2ab4fc8ec)
-
-</details>
-
-<details><summary><h3>Data Collection and Processing with Python (Coursera, UM)</h3></summary>
-
-![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/cbe03de0-22ed-4ce3-828c-a3f0e33ae168)
-
-</details>
-
-<details><summary><h3>Python Functions, Files, and Dictionaries (Coursera, UM)</h3></summary>
-
-![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/6c677df3-32da-4741-8708-3aaabfe94d48)
-
 
 </details>
 
