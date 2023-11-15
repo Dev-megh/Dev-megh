@@ -60,24 +60,30 @@
 ![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-<h2>🎓 My certificates</h2>
-
-<h3>• Scientific Computing with Python</h3>
+<h2>🎓 My certificates (Dropdown)</h2>
+<details><summary><h3>Scientific Computing with Python (FCC)</h3></summary>
 
 ![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/701ad33b-ef7a-4c62-a892-ee517ca38a9a)
-<br />
-<h3>• Responsive Web Design</h3>
+
+</details>
+
+<details><summary><h3>Responsive Web Design (FCC)</h3></summary>
 
 ![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/e09662c2-6f22-4a28-ba58-342591e12781)
-<br />
-<h3>• Javascript Algorithms and Data Structures</h3>
+
+</details>
+
+<details><summary><h3>Javascript Algorithms and Data Structures (FCC)</h3></summary>
 
 ![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/44414cf0-434e-471c-b8cc-9216f7b60e0f)
-<br />
-<h3>• Front End Development Libraries</h3>
+
+</details>
+
+<details><summary><h3>Front End Development Libraries (FCC)</h3></summary>
 
 ![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/2566d201-9dfc-4f06-b5b1-cff2ab4fc8ec)
 
+</details>
 
 <h2>💻 My other skills</h2>
 
