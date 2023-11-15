@@ -85,6 +85,26 @@
 
 </details>
 
+<details><summary><h3>Data Collection and Processing with Python (Coursera, UM)</h3></summary>
+
+![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/cbe03de0-22ed-4ce3-828c-a3f0e33ae168)
+
+</details>
+
+<details><summary><h3>Python Functions, Files, and Dictionaries (Coursera, UM)</h3></summary>
+
+![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/6c677df3-32da-4741-8708-3aaabfe94d48)
+
+
+</details>
+
+<details><summary><h3>Python Basics (Coursera, UM)</h3></summary>
+
+![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/63ac146a-4f72-4a36-b293-cface50de977)
+
+
+</details>
+
 <h2>💻 My other skills</h2>
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
