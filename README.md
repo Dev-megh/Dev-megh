@@ -67,6 +67,12 @@
 
 </details>
 
+<details><summary><h3>Python Classes and Inheritance (Coursera, UM)</h3></summary>
+  
+![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/ad5f3b03-338b-470b-94b1-72fb8de8f61b)
+
+</details>
+
 <details><summary><h3>Data Collection and Processing with Python (Coursera, UM)</h3></summary>
 
 ![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/cbe03de0-22ed-4ce3-828c-a3f0e33ae168)
@@ -100,7 +106,6 @@
 <details><summary><h3>Python Basics (Coursera, UM)</h3></summary>
 
 ![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/63ac146a-4f72-4a36-b293-cface50de977)
-
 
 </details>
 
