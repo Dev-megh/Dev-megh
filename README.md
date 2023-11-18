@@ -67,22 +67,36 @@
 
 </details>
 
-<details><summary><h3>Python Classes and Inheritance (Coursera, UM)</h3></summary>
+</details>
+<details><summary><h3>Python 3 Programming Specialization (5 Courses) (Coursera, UM)</h3></summary>
   
-![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/ad5f3b03-338b-470b-94b1-72fb8de8f61b)
+  ![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/02a8d032-faed-4159-811e-3bdba8c2b1f5)
+  
+  <details><summary><h4>Python Basics (Coursera, UM)</h4></summary>
 
-</details>
+  ![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/63ac146a-4f72-4a36-b293-cface50de977)
 
-<details><summary><h3>Data Collection and Processing with Python (Coursera, UM)</h3></summary>
+  </details>
+  <details><summary><h4>Python Functions, Files, and Dictionaries (Coursera, UM)</h4></summary>
 
-![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/cbe03de0-22ed-4ce3-828c-a3f0e33ae168)
+  ![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/6c677df3-32da-4741-8708-3aaabfe94d48)
 
-</details>
+  </details>
+  <details><summary><h4>Data Collection and Processing with Python (Coursera, UM)</h4></summary>
 
-<details><summary><h3>Python Functions, Files, and Dictionaries (Coursera, UM)</h3></summary>
+  ![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/cbe03de0-22ed-4ce3-828c-a3f0e33ae168)
 
-![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/6c677df3-32da-4741-8708-3aaabfe94d48)
+  </details>
+  <details><summary><h4>Python Classes and Inheritance (Coursera, UM)</h4></summary>
+  
+  ![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/ad5f3b03-338b-470b-94b1-72fb8de8f61b)
 
+  </details>
+  <details><summary><h4>Python Project: pillow, tesseract, and opencv (Coursera, UM)</h4></summary>
+
+  ![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/06000485-8816-441e-b115-e8a7d9ac4c25)
+
+  </details>
 </details>
 
 <details><summary><h3>Responsive Web Design (FCC)</h3></summary>
@@ -100,14 +114,6 @@
 <details><summary><h3>Front End Development Libraries (FCC)</h3></summary>
 
 ![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/2566d201-9dfc-4f06-b5b1-cff2ab4fc8ec)
-
-</details>
-
-<details><summary><h3>Python Basics (Coursera, UM)</h3></summary>
-
-![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/63ac146a-4f72-4a36-b293-cface50de977)
-
-</details>
 
 <h2>💻 My other skills</h2>
 
