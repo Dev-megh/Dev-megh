@@ -70,7 +70,7 @@
 </details>
 <details><summary><h3>Python 3 Programming Specialization (5 Courses) (Coursera, UM)</h3></summary>
   
-  ![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/02a8d032-faed-4159-811e-3bdba8c2b1f5)
+  ![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/19b100d7-0411-4d54-8c2d-e195bd79d0e9)
   
   <details><summary><h4>Python Basics (Coursera, UM)</h4></summary>
 
