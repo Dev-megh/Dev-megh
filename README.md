@@ -71,7 +71,9 @@
 <details><summary><h3>Python 3 Programming Specialization (5 Courses) (University of Michigan | Coursera)</h3></summary>
   
   ![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/19b100d7-0411-4d54-8c2d-e195bd79d0e9)
-  
+
+  <ul>
+    
   <details><summary><h4>Python Basics (University of Michigan | Coursera)</h4></summary>
 
   ![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/63ac146a-4f72-4a36-b293-cface50de977)
@@ -97,6 +99,7 @@
   ![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/06000485-8816-441e-b115-e8a7d9ac4c25)
 
   </details>
+  </ul>
 </details>
 
 <details><summary><h3>Responsive Web Design (FCC)</h3></summary>
