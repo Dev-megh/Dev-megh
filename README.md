@@ -1,4 +1,4 @@
-<h2>👋 Hi, I’m @Dev-megh</h2>
+![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/dce71494-5bfa-4056-8222-5d5eb418b068)![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/fe6e4024-249f-47cb-85ad-61ea895ee73e)<h2>👋 Hi, I’m @Dev-megh</h2>
 
 • 🔭 I'm currently working on an online course hosting platform<br/>
 • 👀 I’m interested in Full stack web dev, Software dev, AI/ML projects, as well as Automation, Space, and Defense systems engineering<br/>
@@ -62,6 +62,61 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <h2>🎓 My certificates (Dropdown)</h2>
+
+<details><summary><h3>Meta Back-End Developer Specialization (9 Courses) (Meta | Coursera)</h3></summary>
+  
+  ![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/d81af2ce-c498-41c5-8cfc-0a121518e8ab)
+
+  <ul>
+    
+  <details><summary><h4>Introduction to Back-End Development (Meta | Coursera)</h4></summary>
+
+  ![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/587fb753-01bb-4aef-9465-f7ac9a5e2b04)
+
+  </details>
+  <details><summary><h4>Programming in Python (Meta | Coursera)</h4></summary>
+
+  ![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/b0a47cd6-c03f-4ccb-8ff2-64b954c109ec)
+
+  </details>
+  <details><summary><h4>Version Control (Meta | Coursera)</h4></summary>
+
+  ![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/c4ea4228-9d9c-4a4c-9c23-8c584b2fb686)
+
+  </details>
+  <details><summary><h4>Introduction to Databases for Back-End Development (Meta | Coursera)</h4></summary>
+  
+  ![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/8dc32a40-f39b-413d-9331-33052dd73545)
+
+  </details>
+  <details><summary><h4>Django Web Framework (Meta | Coursera)</h4></summary>
+
+  ![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/3a11845b-68de-4888-bd5c-7a3b3039d5f5)
+
+  </details>
+  <details><summary><h4>APIs (Meta | Coursera)</h4></summary>
+
+  ![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/4aa009f6-6891-484b-85f3-c4c45368921b)
+
+  </details>
+  <details><summary><h4>The Full Stack (Meta | Coursera)</h4></summary>
+    
+  ![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/f75e9890-a42b-4205-9d4c-07cd3978ff56)
+
+  </details>
+  <details><summary><h4>Back-End Developer Capstone (Meta | Coursera)</h4></summary>
+
+  ![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/106f366c-2275-4a31-b522-86ec25748ec0)
+
+  </details>
+  <details><summary><h4>Coding Interview Preparation (Meta | Coursera)</h4></summary>
+
+  ![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/370484c4-b64a-44e3-8f6d-fe5dac222c4c)
+
+  </details>
+  </ul>
+</details>
+
 <details><summary><h3>Scientific Computing with Python (FCC)</h3></summary>
 
 ![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/701ad33b-ef7a-4c62-a892-ee517ca38a9a)
