@@ -1,4 +1,4 @@
-![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/dce71494-5bfa-4056-8222-5d5eb418b068)![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/fe6e4024-249f-47cb-85ad-61ea895ee73e)<h2>👋 Hi, I’m @Dev-megh</h2>
+<h2>👋 Hi, I’m @Dev-megh</h2>
 
 • 🔭 I'm currently working on an online course hosting platform<br/>
 • 👀 I’m interested in Full stack web dev, Software dev, AI/ML projects, as well as Automation, Space, and Defense systems engineering<br/>
