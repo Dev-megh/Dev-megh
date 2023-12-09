@@ -117,12 +117,6 @@
   </ul>
 </details>
 
-<details><summary><h3>Scientific Computing with Python (FCC)</h3></summary>
-
-![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/701ad33b-ef7a-4c62-a892-ee517ca38a9a)
-
-</details>
-
 </details>
 <details><summary><h3>Python 3 Programming Specialization (5 Courses) (University of Michigan | Coursera)</h3></summary>
   
@@ -156,6 +150,12 @@
 
   </details>
   </ul>
+</details>
+
+<details><summary><h3>Scientific Computing with Python (FCC)</h3></summary>
+
+![image](https://github.com/Dev-megh/Dev-megh/assets/103350469/701ad33b-ef7a-4c62-a892-ee517ca38a9a)
+
 </details>
 
 <details><summary><h3>Responsive Web Design (FCC)</h3></summary>
