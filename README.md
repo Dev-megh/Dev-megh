@@ -1,4 +1,4 @@
-<h2>👋 Hi, I’m @Dev-megh</h2>
+<h2>Hi, I’m @Dev-megh</h2>
 
 • 🔭 I'm currently working on an online course hosting platform.<br/>
 • 👀 I’m interested in Full stack web dev, Software dev, AI/ML projects, as well as Automation, Space, and Defense systems engineering.<br/>
