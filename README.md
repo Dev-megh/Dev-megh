@@ -6,8 +6,8 @@
 • 💞️ I’m looking to collaborate on: Web-dev or ML projects.<br/>
 • 🌐 I'm a quadrilingual.<br/>
 • 📫 How to reach me:
-- email: chevlimegh@gmail.com
-- email: mycutemammoth@gmail.com
+- Email: chevlimegh@gmail.com
+- Email: mycutemammoth@gmail.com
 
 <h2>🔥 My Streak</h2>
 
