@@ -5,7 +5,7 @@
 • 🌱 I’m currently learning: Python, Flask, and Backend management.<br/>
 • 💞️ I’m looking to collaborate on: Web-dev or ML projects.<br/>
 • 🌐 I'm a quadrilingual.<br/>
-• ⏳ Learning coding for 9 years.<br/>
+• ⏳ Learning coding for 10 years.<br/>
 • 📫 How to reach me:
 - Email: chevlimegh@gmail.com
 - Email: mycutemammoth@gmail.com
