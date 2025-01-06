@@ -1,9 +1,8 @@
 <h2>Hey 👋, I’m @Dev-megh</h2>
 
-• 🔭 I'm currently working on an online course hosting platform.<br/>
-• 👀 I’m interested in Full-stack web dev, Software dev, AI/ML projects, Space, and Defense automation.<br/>
+• 🔭 I'm currently working on an IoT system.<br/>
+• 👀 I’m interested in Full-stack web dev, IoT, AI/ML projects, Space, and Defense automation.<br/>
 • 🌱 I’m currently learning: Python, Flask, and Backend management.<br/>
-• 💞️ I’m looking to collaborate on: Web-dev or ML projects.<br/>
 • 🌐 I'm a quadrilingual.<br/>
 • ⏳ Learning coding for 10 years.<br/>
 • 📫 How to reach me:
