@@ -4,9 +4,9 @@
 • 👀 I’m interested in Web dev, IoT, Brain-computer interfaces, and Defense automation.<br/>
 • 🌱 I’m currently learning: to work with IoT and Embedded hardware and libraries.<br/>
 • 🌐 I'm a quadrilingual.<br/>
-• ⏳ Learning coding for 10 years.<br/>
 • 📫 How to reach me:
 - Email: chevlimegh@gmail.com
+- Website: https://www.meghc.me
 
 <h2>🔥 My Streak</h2>
 
