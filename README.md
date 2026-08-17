@@ -6,7 +6,7 @@
 • 🌐 I'm a quadrilingual.<br/>
 • 📫 How to reach me:
 - Email: chevlimegh@gmail.com
-- Website: https://www.meghc.me
+- Website: https://meghchevli.qzz.io/
 
 <h2>🔥 My Streak</h2>
 
